@@ -1,0 +1,1010 @@
+[
+  {
+    "name": "Bags Editorial Collage",
+    "slug": "bags-editorial-collage",
+    "category": "animations-loaders",
+    "categoryDisplay": "Animations & Loaders",
+    "path": "animations-loaders/bags-editorial-collage"
+  },
+  {
+    "name": "Linkflow Boomerang Hero",
+    "slug": "linkflow-boomerang-hero",
+    "category": "animations-loaders",
+    "categoryDisplay": "Animations & Loaders",
+    "path": "animations-loaders/linkflow-boomerang-hero"
+  },
+  {
+    "name": "Mainframe Scrub Hero",
+    "slug": "mainframe-scrub-hero",
+    "category": "animations-loaders",
+    "categoryDisplay": "Animations & Loaders",
+    "path": "animations-loaders/mainframe-scrub-hero"
+  },
+  {
+    "name": "Microvisuals Boomerang Hero",
+    "slug": "microvisuals-boomerang-hero",
+    "category": "animations-loaders",
+    "categoryDisplay": "Animations & Loaders",
+    "path": "animations-loaders/microvisuals-boomerang-hero"
+  },
+  {
+    "name": "Pallet Ross Landing",
+    "slug": "pallet-ross-landing",
+    "category": "animations-loaders",
+    "categoryDisplay": "Animations & Loaders",
+    "path": "animations-loaders/pallet-ross-landing"
+  },
+  {
+    "name": "Aurora Sign Up",
+    "slug": "aurora-sign-up",
+    "category": "components-ui",
+    "categoryDisplay": "Components & UI",
+    "path": "components-ui/aurora-sign-up"
+  },
+  {
+    "name": "Crimson Mill Supply Card H61",
+    "slug": "crimson-mill-supply-card-h61",
+    "category": "components-ui",
+    "categoryDisplay": "Components & UI",
+    "path": "components-ui/crimson-mill-supply-card-h61"
+  },
+  {
+    "name": "Gradient Bars Background",
+    "slug": "gradient-bars-background",
+    "category": "components-ui",
+    "categoryDisplay": "Components & UI",
+    "path": "components-ui/gradient-bars-background"
+  },
+  {
+    "name": "Convix PR Agency Hero",
+    "slug": "convix-pr-agency-hero",
+    "category": "hero-sections",
+    "categoryDisplay": "Hero Sections",
+    "path": "hero-sections/convix-pr-agency-hero"
+  },
+  {
+    "name": "Monocrit Studio H27",
+    "slug": "monocrit-studio-h27",
+    "category": "hero-sections",
+    "categoryDisplay": "Hero Sections",
+    "path": "hero-sections/monocrit-studio-h27"
+  },
+  {
+    "name": "Nexora Automation Hero",
+    "slug": "nexora-automation-hero",
+    "category": "hero-sections",
+    "categoryDisplay": "Hero Sections",
+    "path": "hero-sections/nexora-automation-hero"
+  },
+  {
+    "name": "Rivr DeFi Hero",
+    "slug": "rivr-defi-hero",
+    "category": "hero-sections",
+    "categoryDisplay": "Hero Sections",
+    "path": "hero-sections/rivr-defi-hero"
+  },
+  {
+    "name": "Securify Data Hero",
+    "slug": "securify-data-hero",
+    "category": "hero-sections",
+    "categoryDisplay": "Hero Sections",
+    "path": "hero-sections/securify-data-hero"
+  },
+  {
+    "name": "Shape Landing Hero",
+    "slug": "shape-landing-hero",
+    "category": "hero-sections",
+    "categoryDisplay": "Hero Sections",
+    "path": "hero-sections/shape-landing-hero"
+  },
+  {
+    "name": "Skyelite Jet Hero",
+    "slug": "skyelite-jet-hero",
+    "category": "hero-sections",
+    "categoryDisplay": "Hero Sections",
+    "path": "hero-sections/skyelite-jet-hero"
+  },
+  {
+    "name": "Smart Prosthetics Hero",
+    "slug": "smart-prosthetics-hero",
+    "category": "hero-sections",
+    "categoryDisplay": "Hero Sections",
+    "path": "hero-sections/smart-prosthetics-hero"
+  },
+  {
+    "name": "Stellar AI Landing Hero",
+    "slug": "stellar-ai-landing-hero",
+    "category": "hero-sections",
+    "categoryDisplay": "Hero Sections",
+    "path": "hero-sections/stellar-ai-landing-hero"
+  },
+  {
+    "name": "Synex Wealth Hero",
+    "slug": "synex-wealth-hero",
+    "category": "hero-sections",
+    "categoryDisplay": "Hero Sections",
+    "path": "hero-sections/synex-wealth-hero"
+  },
+  {
+    "name": "Toonhub Figurine Carousel",
+    "slug": "toonhub-figurine-carousel",
+    "category": "hero-sections",
+    "categoryDisplay": "Hero Sections",
+    "path": "hero-sections/toonhub-figurine-carousel"
+  },
+  {
+    "name": "Transform Data Hero",
+    "slug": "transform-data-hero",
+    "category": "hero-sections",
+    "categoryDisplay": "Hero Sections",
+    "path": "hero-sections/transform-data-hero"
+  },
+  {
+    "name": "Vanguard Hero Landing",
+    "slug": "vanguard-hero-landing",
+    "category": "hero-sections",
+    "categoryDisplay": "Hero Sections",
+    "path": "hero-sections/vanguard-hero-landing"
+  },
+  {
+    "name": "Vaultshield Hero",
+    "slug": "vaultshield-hero",
+    "category": "hero-sections",
+    "categoryDisplay": "Hero Sections",
+    "path": "hero-sections/vaultshield-hero"
+  },
+  {
+    "name": "Velorah Hero Landing",
+    "slug": "velorah-hero-landing",
+    "category": "hero-sections",
+    "categoryDisplay": "Hero Sections",
+    "path": "hero-sections/velorah-hero-landing"
+  },
+  {
+    "name": "Verdant Advisory H10",
+    "slug": "verdant-advisory-h10",
+    "category": "hero-sections",
+    "categoryDisplay": "Hero Sections",
+    "path": "hero-sections/verdant-advisory-h10"
+  },
+  {
+    "name": "Wanderful Cinematic Hero",
+    "slug": "wanderful-cinematic-hero",
+    "category": "hero-sections",
+    "categoryDisplay": "Hero Sections",
+    "path": "hero-sections/wanderful-cinematic-hero"
+  },
+  {
+    "name": "Woven Light Hero",
+    "slug": "woven-light-hero",
+    "category": "hero-sections",
+    "categoryDisplay": "Hero Sections",
+    "path": "hero-sections/woven-light-hero"
+  },
+  {
+    "name": "Xero Encryption Hero",
+    "slug": "xero-encryption-hero",
+    "category": "hero-sections",
+    "categoryDisplay": "Hero Sections",
+    "path": "hero-sections/xero-encryption-hero"
+  },
+  {
+    "name": "Aegis Console H39",
+    "slug": "aegis-console-h39",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/aegis-console-h39"
+  },
+  {
+    "name": "Almond Hours H65",
+    "slug": "almond-hours-h65",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/almond-hours-h65"
+  },
+  {
+    "name": "Amber Foundry H9",
+    "slug": "amber-foundry-h9",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/amber-foundry-h9"
+  },
+  {
+    "name": "Amberhaus Pet Atelier H31",
+    "slug": "amberhaus-pet-atelier-h31",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/amberhaus-pet-atelier-h31"
+  },
+  {
+    "name": "Archway Summit H21",
+    "slug": "archway-summit-h21",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/archway-summit-h21"
+  },
+  {
+    "name": "Asme Hero Landing",
+    "slug": "asme-hero-landing",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/asme-hero-landing"
+  },
+  {
+    "name": "Asme Liquid Glass Landing",
+    "slug": "asme-liquid-glass-landing",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/asme-liquid-glass-landing"
+  },
+  {
+    "name": "Astral Veil H6",
+    "slug": "astral-veil-h6",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/astral-veil-h6"
+  },
+  {
+    "name": "Atelier Noir H7",
+    "slug": "atelier-noir-h7",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/atelier-noir-h7"
+  },
+  {
+    "name": "Atelier Press H51",
+    "slug": "atelier-press-h51",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/atelier-press-h51"
+  },
+  {
+    "name": "Auric Clinic Glow H37",
+    "slug": "auric-clinic-glow-h37",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/auric-clinic-glow-h37"
+  },
+  {
+    "name": "Axion Studio Landing",
+    "slug": "axion-studio-landing",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/axion-studio-landing"
+  },
+  {
+    "name": "Axis Quotient H30",
+    "slug": "axis-quotient-h30",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/axis-quotient-h30"
+  },
+  {
+    "name": "Carbon Bloom H95",
+    "slug": "carbon-bloom-h95",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/carbon-bloom-h95"
+  },
+  {
+    "name": "Cartwright Relocation H47",
+    "slug": "cartwright-relocation-h47",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/cartwright-relocation-h47"
+  },
+  {
+    "name": "Cerulean Precision Collective H67",
+    "slug": "cerulean-precision-collective-h67",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/cerulean-precision-collective-h67"
+  },
+  {
+    "name": "Citron Atlas H79",
+    "slug": "citron-atlas-h79",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/citron-atlas-h79"
+  },
+  {
+    "name": "Claywell Solene H5",
+    "slug": "claywell-solene-h5",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/claywell-solene-h5"
+  },
+  {
+    "name": "Cobalt Repairworks H78",
+    "slug": "cobalt-repairworks-h78",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/cobalt-repairworks-h78"
+  },
+  {
+    "name": "Concrete Bazaar H87",
+    "slug": "concrete-bazaar-h87",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/concrete-bazaar-h87"
+  },
+  {
+    "name": "Crimson Cut Studio H72",
+    "slug": "crimson-cut-studio-h72",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/crimson-cut-studio-h72"
+  },
+  {
+    "name": "Design Rocket Email",
+    "slug": "design-rocket-email",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/design-rocket-email"
+  },
+  {
+    "name": "Dhara Heritage Edit H88",
+    "slug": "dhara-heritage-edit-h88",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/dhara-heritage-edit-h88"
+  },
+  {
+    "name": "Ember Quietude H26",
+    "slug": "ember-quietude-h26",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/ember-quietude-h26"
+  },
+  {
+    "name": "Evergreen Ledger H94",
+    "slug": "evergreen-ledger-h94",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/evergreen-ledger-h94"
+  },
+  {
+    "name": "Fernhollow Pet Wellness H68",
+    "slug": "fernhollow-pet-wellness-h68",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/fernhollow-pet-wellness-h68"
+  },
+  {
+    "name": "Freightleaf Clean Haul H80",
+    "slug": "freightleaf-clean-haul-h80",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/freightleaf-clean-haul-h80"
+  },
+  {
+    "name": "Graft Modular H93",
+    "slug": "graft-modular-h93",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/graft-modular-h93"
+  },
+  {
+    "name": "Gridframe Precision H74",
+    "slug": "gridframe-precision-h74",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/gridframe-precision-h74"
+  },
+  {
+    "name": "Groundai Landing",
+    "slug": "groundai-landing",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/groundai-landing"
+  },
+  {
+    "name": "Grove Kitchen Fresh H70",
+    "slug": "grove-kitchen-fresh-h70",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/grove-kitchen-fresh-h70"
+  },
+  {
+    "name": "Harbour Hearth H64",
+    "slug": "harbour-hearth-h64",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/harbour-hearth-h64"
+  },
+  {
+    "name": "Hearthwell Homeware H71",
+    "slug": "hearthwell-homeware-h71",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/hearthwell-homeware-h71"
+  },
+  {
+    "name": "Helix Strata H76",
+    "slug": "helix-strata-h76",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/helix-strata-h76"
+  },
+  {
+    "name": "Kairos Academy H0",
+    "slug": "kairos-academy-h0",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/kairos-academy-h0"
+  },
+  {
+    "name": "Lantern Broth Midnight Ramen H8",
+    "slug": "lantern-broth-midnight-ramen-h8",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/lantern-broth-midnight-ramen-h8"
+  },
+  {
+    "name": "Lantern Loft Tutoring H1",
+    "slug": "lantern-loft-tutoring-h1",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/lantern-loft-tutoring-h1"
+  },
+  {
+    "name": "Lumen Grove H63",
+    "slug": "lumen-grove-h63",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/lumen-grove-h63"
+  },
+  {
+    "name": "Mindloop Mono Landing",
+    "slug": "mindloop-mono-landing",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/mindloop-mono-landing"
+  },
+  {
+    "name": "Neuralyn Dark Landing",
+    "slug": "neuralyn-dark-landing",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/neuralyn-dark-landing"
+  },
+  {
+    "name": "Nhm Paleontology Landing",
+    "slug": "nhm-paleontology-landing",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/nhm-paleontology-landing"
+  },
+  {
+    "name": "Obsidian Meridian H85",
+    "slug": "obsidian-meridian-h85",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/obsidian-meridian-h85"
+  },
+  {
+    "name": "Ochre Stone Studio H11",
+    "slug": "ochre-stone-studio-h11",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/ochre-stone-studio-h11"
+  },
+  {
+    "name": "Orbis NFT Landing",
+    "slug": "orbis-nft-landing",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/orbis-nft-landing"
+  },
+  {
+    "name": "Pelmatech Health Companion",
+    "slug": "pelmatech-health-companion",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/pelmatech-health-companion"
+  },
+  {
+    "name": "Prisma Landing",
+    "slug": "prisma-landing",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/prisma-landing"
+  },
+  {
+    "name": "Riso Rebel Fest H20",
+    "slug": "riso-rebel-fest-h20",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/riso-rebel-fest-h20"
+  },
+  {
+    "name": "Saaj Heritage Bazaar H90",
+    "slug": "saaj-heritage-bazaar-h90",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/saaj-heritage-bazaar-h90"
+  },
+  {
+    "name": "Sencha Atelier H12",
+    "slug": "sencha-atelier-h12",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/sencha-atelier-h12"
+  },
+  {
+    "name": "Spectral Orbit Novascale H17",
+    "slug": "spectral-orbit-novascale-h17",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/spectral-orbit-novascale-h17"
+  },
+  {
+    "name": "Synergeus Landing",
+    "slug": "synergeus-landing",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/synergeus-landing"
+  },
+  {
+    "name": "Usd Halo Landing",
+    "slug": "usd-halo-landing",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/usd-halo-landing"
+  },
+  {
+    "name": "Valmax Photography Landing",
+    "slug": "valmax-photography-landing",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/valmax-photography-landing"
+  },
+  {
+    "name": "Vellum Atelier H33",
+    "slug": "vellum-atelier-h33",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/vellum-atelier-h33"
+  },
+  {
+    "name": "Velvet Vellum Agency H4",
+    "slug": "velvet-vellum-agency-h4",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/velvet-vellum-agency-h4"
+  },
+  {
+    "name": "Verdant Atelier H40",
+    "slug": "verdant-atelier-h40",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/verdant-atelier-h40"
+  },
+  {
+    "name": "Verdant Pledge Bento H49",
+    "slug": "verdant-pledge-bento-h49",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/verdant-pledge-bento-h49"
+  },
+  {
+    "name": "Verdant Spine Clinic H66",
+    "slug": "verdant-spine-clinic-h66",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/verdant-spine-clinic-h66"
+  },
+  {
+    "name": "Viktor Oddy Landing",
+    "slug": "viktor-oddy-landing",
+    "category": "landing-pages",
+    "categoryDisplay": "Landing Pages",
+    "path": "landing-pages/viktor-oddy-landing"
+  },
+  {
+    "name": "Cobalt Bento Folio H43",
+    "slug": "cobalt-bento-folio-h43",
+    "category": "portfolios",
+    "categoryDisplay": "Portfolios",
+    "path": "portfolios/cobalt-bento-folio-h43"
+  },
+  {
+    "name": "Crimson Press Kit H25",
+    "slug": "crimson-press-kit-h25",
+    "category": "portfolios",
+    "categoryDisplay": "Portfolios",
+    "path": "portfolios/crimson-press-kit-h25"
+  },
+  {
+    "name": "Electric Volt Folio H45",
+    "slug": "electric-volt-folio-h45",
+    "category": "portfolios",
+    "categoryDisplay": "Portfolios",
+    "path": "portfolios/electric-volt-folio-h45"
+  },
+  {
+    "name": "Inkpress Atelier H46",
+    "slug": "inkpress-atelier-h46",
+    "category": "portfolios",
+    "categoryDisplay": "Portfolios",
+    "path": "portfolios/inkpress-atelier-h46"
+  },
+  {
+    "name": "Jack 3D Portfolio",
+    "slug": "jack-3d-portfolio",
+    "category": "portfolios",
+    "categoryDisplay": "Portfolios",
+    "path": "portfolios/jack-3d-portfolio"
+  },
+  {
+    "name": "Michael Smith Portfolio",
+    "slug": "michael-smith-portfolio",
+    "category": "portfolios",
+    "categoryDisplay": "Portfolios",
+    "path": "portfolios/michael-smith-portfolio"
+  },
+  {
+    "name": "Agenforce Marketing Template",
+    "slug": "agenforce-marketing-template",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/agenforce-marketing-template"
+  },
+  {
+    "name": "Agent",
+    "slug": "agent",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/agent"
+  },
+  {
+    "name": "Alfred",
+    "slug": "alfred",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/alfred"
+  },
+  {
+    "name": "Aspect",
+    "slug": "aspect",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/aspect"
+  },
+  {
+    "name": "Author",
+    "slug": "author",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/author"
+  },
+  {
+    "name": "Blog",
+    "slug": "blog",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/blog"
+  },
+  {
+    "name": "Cleaner Nextjs",
+    "slug": "cleaner-nextjs",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/cleaner-nextjs"
+  },
+  {
+    "name": "Copper Nextjs",
+    "slug": "copper-nextjs",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/copper-nextjs"
+  },
+  {
+    "name": "Dusk",
+    "slug": "dusk",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/dusk"
+  },
+  {
+    "name": "Ellamae",
+    "slug": "ellamae",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/ellamae"
+  },
+  {
+    "name": "Fincash",
+    "slug": "fincash",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/fincash"
+  },
+  {
+    "name": "Finprox Nextjs",
+    "slug": "finprox-nextjs",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/finprox-nextjs"
+  },
+  {
+    "name": "Fortify Nextjs",
+    "slug": "fortify-nextjs",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/fortify-nextjs"
+  },
+  {
+    "name": "Glasto",
+    "slug": "glasto",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/glasto"
+  },
+  {
+    "name": "Lumen",
+    "slug": "lumen",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/lumen"
+  },
+  {
+    "name": "Mainline",
+    "slug": "mainline",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/mainline"
+  },
+  {
+    "name": "Mobit",
+    "slug": "mobit",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/mobit"
+  },
+  {
+    "name": "Nexstudio",
+    "slug": "nexstudio",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/nexstudio"
+  },
+  {
+    "name": "Nextspace Nextjs",
+    "slug": "nextspace-nextjs",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/nextspace-nextjs"
+  },
+  {
+    "name": "Northbound",
+    "slug": "northbound",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/northbound"
+  },
+  {
+    "name": "Oatmeal SaaS Kit",
+    "slug": "oatmeal-saas-kit",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/oatmeal-saas-kit"
+  },
+  {
+    "name": "Optimize Nextjs",
+    "slug": "optimize-nextjs",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/optimize-nextjs"
+  },
+  {
+    "name": "Originx",
+    "slug": "originx",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/originx"
+  },
+  {
+    "name": "Plasma",
+    "slug": "plasma",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/plasma"
+  },
+  {
+    "name": "Primapersona",
+    "slug": "primapersona",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/primapersona"
+  },
+  {
+    "name": "Profoliox",
+    "slug": "profoliox",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/profoliox"
+  },
+  {
+    "name": "Quickdir Nextjs",
+    "slug": "quickdir-nextjs",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/quickdir-nextjs"
+  },
+  {
+    "name": "Rosewood",
+    "slug": "rosewood",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/rosewood"
+  },
+  {
+    "name": "Saasly",
+    "slug": "saasly",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/saasly"
+  },
+  {
+    "name": "Saasspace",
+    "slug": "saasspace",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/saasspace"
+  },
+  {
+    "name": "Sandstone",
+    "slug": "sandstone",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/sandstone"
+  },
+  {
+    "name": "Scalar",
+    "slug": "scalar",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/scalar"
+  },
+  {
+    "name": "Seoptic Nextjs",
+    "slug": "seoptic-nextjs",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/seoptic-nextjs"
+  },
+  {
+    "name": "Snowpeak",
+    "slug": "snowpeak",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/snowpeak"
+  },
+  {
+    "name": "Spydea Nextjs",
+    "slug": "spydea-nextjs",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/spydea-nextjs"
+  },
+  {
+    "name": "Startup",
+    "slug": "startup",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/startup"
+  },
+  {
+    "name": "Startup Landing Page Template",
+    "slug": "startup-landing-page-template",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/startup-landing-page-template"
+  },
+  {
+    "name": "Streamer",
+    "slug": "streamer",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/streamer"
+  },
+  {
+    "name": "Streamline",
+    "slug": "streamline",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/streamline"
+  },
+  {
+    "name": "Studiomax",
+    "slug": "studiomax",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/studiomax"
+  },
+  {
+    "name": "Superdesign Studio Editorial",
+    "slug": "superdesign-studio-editorial",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/superdesign-studio-editorial"
+  },
+  {
+    "name": "Trendspotter",
+    "slug": "trendspotter",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/trendspotter"
+  },
+  {
+    "name": "Visionex Nextjs",
+    "slug": "visionex-nextjs",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/visionex-nextjs"
+  },
+  {
+    "name": "Williamsburg",
+    "slug": "williamsburg",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/williamsburg"
+  },
+  {
+    "name": "Writemate",
+    "slug": "writemate",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/writemate"
+  },
+  {
+    "name": "Zippay",
+    "slug": "zippay",
+    "category": "templates",
+    "categoryDisplay": "Templates",
+    "path": "templates/zippay"
+  },
+  {
+    "name": "Bauhaus Form Follows Function",
+    "slug": "bauhaus-form-follows-function",
+    "category": "ui-design",
+    "categoryDisplay": "UI Design",
+    "path": "ui-design/bauhaus-form-follows-function"
+  },
+  {
+    "name": "Botanical Organic Serif",
+    "slug": "botanical-organic-serif",
+    "category": "ui-design",
+    "categoryDisplay": "UI Design",
+    "path": "ui-design/botanical-organic-serif"
+  },
+  {
+    "name": "Material You Showcase",
+    "slug": "material-you-showcase",
+    "category": "ui-design",
+    "categoryDisplay": "UI Design",
+    "path": "ui-design/material-you-showcase"
+  },
+  {
+    "name": "Neo Brutalism Loud System",
+    "slug": "neo-brutalism-loud-system",
+    "category": "ui-design",
+    "categoryDisplay": "UI Design",
+    "path": "ui-design/neo-brutalism-loud-system"
+  },
+  {
+    "name": "Playful Geometric Design System",
+    "slug": "playful-geometric-design-system",
+    "category": "ui-design",
+    "categoryDisplay": "UI Design",
+    "path": "ui-design/playful-geometric-design-system"
+  },
+  {
+    "name": "Verdant Organic Design System",
+    "slug": "verdant-organic-design-system",
+    "category": "ui-design",
+    "categoryDisplay": "UI Design",
+    "path": "ui-design/verdant-organic-design-system"
+  }
+]
