@@ -43,4 +43,4 @@ opacity 1, console-error cleanliness, and mobile-viewport visibility rules.
 
 ---
 
-Part of the [Landing pages](../) collection in the [claude-directory](../../) — an open-source gallery of AI-generated UI built with Claude Fable 5. [Browse the live gallery](https://pulkitxm.com/claude-directory).
+Part of the [Landing pages](../) collection in the [saurav-web-library](../../) — an open-source gallery of AI-generated UI built with Claude Fable 5. [Browse the live gallery](https://sauravthakurx.vercel.app/saurav-web-library).

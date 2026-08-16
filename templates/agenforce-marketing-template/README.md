@@ -43,4 +43,4 @@ Original design: [Agenforce Marketing Template](https://ui.aceternity.com/templa
 
 ---
 
-Part of the [Templates](../) collection in the [fable](../../../) gallery. [Browse the live gallery](https://pulkitxm.com/claude-directory).
+Part of the [Templates](../) collection in the [fable](../../../) gallery. [Browse the live gallery](https://sauravthakurx.vercel.app/saurav-web-library).

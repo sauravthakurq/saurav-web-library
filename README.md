@@ -63,13 +63,13 @@ Check each project's own `README.md` or `prompt.md` for specific instructions.
 
 ## Source & Attribution
 
-These projects were originally created as part of the [Claude Directory](https://github.com/pulkitxm/claude-directory) by [Pulkit](https://github.com/pulkitxm). This repository is a curated selection from that collection.
+These projects were originally created as part of the [Saurav Web Library](https://github.com/sauravthakurq/saurav-web-library) by [Saurav Thakur](https://github.com/sauravthakurq). This repository is a curated selection from that collection.
 
 The original projects were generated using AI tools and are shared under the MIT License.
 
 ## License
 
-This repository includes projects from [pulkitxm/claude-directory](https://github.com/pulkitxm/claude-directory), licensed under the [MIT License](LICENSE).
+This repository includes projects from [sauravthakurq/saurav-web-library](https://github.com/sauravthakurq/saurav-web-library), licensed under the [MIT License](LICENSE).
 
 ```
 MIT License

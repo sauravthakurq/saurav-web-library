@@ -50,4 +50,4 @@ Faithful clone of an existing design, recreated for study/learning. All credit f
 
 ---
 
-Part of the [Lexington Themes](../) provider collection inside [Templates](../../) in the [claude-directory](../../../../../).
+Part of the [Lexington Themes](../) provider collection inside [Templates](../../) in the [saurav-web-library](../../../../../).

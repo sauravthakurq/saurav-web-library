@@ -52,4 +52,4 @@ Faithful clone of an existing design, recreated for study/learning. All credit f
 
 ---
 
-Part of the [Lexington Themes](../) collection. [Browse the live gallery](https://pulkitxm.com/).
+Part of the [Lexington Themes](../) collection. [Browse the live gallery](https://sauravthakurx.vercel.app/).
